@@ -1,12 +1,12 @@
 # AI Travel Itinerary Generator
 
-A polished student portfolio project that builds a **personalized day-by-day travel itinerary** from simple trip preferences.
+A Python-based travel planning application that creates personalized day-by-day itineraries based on a traveller's destination, trip duration, budget, travel type, interests, and preferred pace.
 
-The product name uses “AI” in the sense of *automated, intelligent recommendations*.  
-**This app does not call a generative AI API.** Personalization is implemented with transparent, rule-based Python logic plus a local destination catalogue. No API keys are required.
+The application uses a rule-based recommendation engine to select suitable attractions, organize activities into morning, afternoon, and evening schedules, and provide estimated costs, travel tips, and a destination-specific packing checklist.
+
+Built with Python, Streamlit, and Pandas, the project demonstrates how user preferences can be combined with structured travel data to generate practical and personalized travel plans.
 
 **Tagline:** Plan smarter. Travel better.
-
 ---
 
 ## Project description

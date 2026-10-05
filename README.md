@@ -6,7 +6,6 @@ The application uses a rule-based recommendation engine to select suitable attra
 
 Built with Python, Streamlit, and Pandas, the project demonstrates how user preferences can be combined with structured travel data to generate practical and personalized travel plans.
 
-**Tagline:** Plan smarter. Travel better.
 ---
 
 ## Project description

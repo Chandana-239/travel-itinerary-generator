@@ -18,7 +18,7 @@ It is designed to be easy to demo in an interview: change the sidebar inputs, cl
 
 ## Features
 
-- Modern Streamlit dashboard (cream canvas, teal accents, card layout)
+- Modern Streamlit dashboard
 - Sidebar trip preferences (destination, days, budget, type, interests, pace)
 - Rule-based recommendation engine in a separate module
 - Day-by-day itinerary with morning / afternoon / evening slots

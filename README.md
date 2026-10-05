@@ -93,7 +93,7 @@ Supported destinations: **Bengaluru, Mysuru, Goa, Mumbai, Delhi, Jaipur, Hyderab
 
 ## Installation
 
-From the project folder (in Cursor: **Terminal → New Terminal**):
+From the project folder ( **Terminal → New Terminal**):
 
 ```bash
 python -m venv .venv
@@ -162,9 +162,3 @@ Costs are **indicative estimates in INR**, not live ticket prices.
 
 ---
 
-## Interview talking points
-
-- Separation of **UI / data / logic** (`app.py`, `travel_data.py`, `recommendation_engine.py`)
-- Why a rule engine is a good first version: explainable, free, deterministic
-- How pandas is used to filter and rank attractions
-- How you would later swap the catalogue for a database without changing the UI
